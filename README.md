@@ -34,6 +34,6 @@ The Few-Epoch Spectroscopy (FES) component of TDSS probes spectroscopic variabil
 
 In order to do these analyses we must issue spectral types to the entire sample of variable objects. This is a procedure done by eye where an objects spectrum is plotted against spectral type standards, or templates, for various spectral types. The spectral type template (also a wavelength vs flux plot) which overlaps most closely with the object spectrum thus identifies the spectral type of the object. Bear in mind this is not an exact science. The Object spectrum rarely overlaps perfectly with the spectral type template but the idea is to choose/issue the spectral type that most closely fits the object spectrum. Below is an image for instruction.
 
-![Spectral type overplot](/Users/jventura/BDNYC/SDSS_FAST/spectraltyping/objspecfiles)
+![Spectral type overplot](/Users/jventura/BDNYC/SDSS_FAST/spectraltyping/objspecfiles/EarlynMins652.png)
 
-
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
