@@ -1,4 +1,4 @@
-# SDSS Project 129
+# SDSS Projects 73 & 129
 
 This repository hosts all the information necessary for getting set up to work on this project. Included will be all the information dedicated to data querying, downloading, structuring and analysis procedures as well as functions and software necessary for project 129. 
 
@@ -8,7 +8,7 @@ First thing is first, lets get you started on your SDSS journey.
 
 ### About the Survey:
 
-Please take some time to read about the current SDSS-IV survey [here](https://www.sdss.org/surveys/#eBOSS). Be generally familiar with the SDSS subprojects and what their scientific objectives are, particularly eBOSS, TDSS and SEGUE-1, since these are the data campaigns that deal most with research project 129. Also briefly read over the telescopes and instruments noting the sections on the Apache point and the Irénée du Pont Telescopes. 
+Please take some time to read about the current SDSS-IV survey [here](https://www.sdss.org/surveys/#eBOSS). Be generally familiar with the SDSS subprojects and what their scientific objectives are, particularly eBOSS, TDSS and SEGUE-1, since these are the data campaigns that deal most with research projects 73 & 129. Also briefly read over the telescopes and instruments noting the sections on the Apache point and the Irénée du Pont Telescopes. 
 
 ### Getting on the email list + setting up trac account: 
 
@@ -21,9 +21,9 @@ Here is a dropbox [link](https://www.dropbox.com/sh/m54iqkb9hbqrqtj/AABEXjMDEza_
 
 ## Project details:
 
-You will be using TDSS to Examine the Magnetic Variability on the Coolest Stars on the [main sequence](https://en.wikipedia.org/wiki/Main_sequence) (M-dwarfs)
+You will be using SEGUE,SEQUELS and TDSS data to Examine the Magnetic Variability on the Coolest Stars on the [main sequence](https://en.wikipedia.org/wiki/Main_sequence) (M-dwarfs)
 
-M and L dwarfs are well known for their magnetic activity, which can be observed at optical wavelengths through rotational/spot modulation, dramatic flare events, and atomic emission (often using the H-alpha emission line). One key element to understanding the formation and evolution of magnetic fields on these dwarfs is their variability, in both photometric and spectroscopic observations. Using data from the Time Domain Spectroscopic Survey (TDSS), we will examine magnetic variability on cool (M) and ultracool (late-M and early-L) dwarfs in two ways.
+M and L dwarfs(substellar objects, not on the main sequence) are well known for their magnetic activity, which can be observed at optical wavelengths through rotational/spot modulation, dramatic flare events, and atomic emission (often using the H-alpha emission line). One key element to understanding the formation and evolution of magnetic fields on these dwarfs is their variability, in both photometric and spectroscopic observations. Using data from the Time Domain Spectroscopic Survey (TDSS),you will examine magnetic variability on cool (M) and ultracool (late-M and early-L) dwarfs in two ways.
 
 Each target in the main TDSS survey is selected based on photometric variability criteria, then follow-up spectra are obtained to understand the cause of variability. In the SDSS-III TDSS pilot survey, 1% of the sample (2310 objects) were variable M dwarfs, and those M dwarfs were more likely to show H-alpha in emission. The expansion of the M dwarf sample by an order of magnitude during the SDSS-IV TDSS main survey provides the opportunity to examine the differences between variability-selected and non-variable M dwarfs as a function of spectral type and Galactic height, probing the variability of M dwarfs with respect to both age and mass.
 
