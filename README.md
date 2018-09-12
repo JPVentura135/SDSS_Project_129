@@ -34,7 +34,7 @@ The Few-Epoch Spectroscopy (FES) component of TDSS probes spectroscopic variabil
 
 In order to do these analyses we must issue spectral types to the entire sample of variable objects. This is a procedure done by eye whereby an objects spectrum is plotted against spectral type standards, or templates, for various spectral types. The spectral type template (also a wavelength vs flux plot) which overlaps most closely with the object spectrum thus identifies the spectral type of the object. Bear in mind this is not an exact science. The object spectrum rarely overlaps perfectly with the spectral type template but the idea is to choose/issue the spectral type that most closely fits the object spectrum. Below is an image for instruction.
 
-![Spectral type overplot](/Users/jventura/BDNYC/SDSS_FAST/SDSS_Project_129/EarlynMins652.png)
+![Spectral type overplot](https://github.com/JPVentura135/SDSS_Project_129/blob/master/EarlynMins652.png)
 
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 
@@ -66,20 +66,7 @@ Illustrated in this section are exercises regarding how to use the SDSS Cross-ID
 [SDSS Cross-ID and Spectral typing Exercise](https://www.dropbox.com/sh/m54iqkb9hbqrqtj/AABEXjMDEza_ixzNG9Pa-qKqa?dl=0)
 
 Note:
-From here on out, most of the astrophysical data you interact with will be in a file format of `.fits` which has a specific architecture. The data obtained from the exercise will be of this format so check this [page](http://docs.astropy.org/en/v0.3/io/fits/index.html) out for a comprehensive overview on how to handle these kinds of files.
-
-
-
-
-
-
-
-
-  
-
-  
-
-
+From here on out, most of the astrophysical data you interact with will be in a file format of `.fits` which has a specific architecture. The data obtained from the exercise will be in the fits format so check this [page](http://docs.astropy.org/en/v0.3/io/fits/index.html) out for a comprehensive overview on how to access and manipulate data from these kinds of files.
 
 
 
