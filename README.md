@@ -40,9 +40,6 @@ In order to do these analyses we must issue spectral types to the entire sample 
 </src>p>
 
 
-
-![Spectral type overplot](https://github.com/JPVentura135/SDSS_Project_129/blob/master/EarlynMins652.png)
-
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 It is encouraged for you to try to do this with a couple of objects in the Python programming language for an exercise in coding. The complete research sample to be analyzed between both projects is very large. It would be an enormous task to plot the objects one-by-one, plot-by-plot this way. Thankfully we have the [*Pyhammer*](https://github.com/BU-hammerTeam/PyHammer) at our disposal. Read the README page behind the link and clone the pyhammer repository into your computer.
