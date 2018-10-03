@@ -37,7 +37,7 @@ In order to do these analyses we must issue spectral types to the entire sample 
 
 <p align="center">
 	<img src = "https://github.com/JPVentura135/SDSS_Project_129/blob/master/EarlynMins652.png">
-</src>p>
+</src>
 
 
 In the image above you can see...
