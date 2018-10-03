@@ -12,7 +12,7 @@ Please take some time to read about the current SDSS-IV survey [here](https://ww
 
 ### Getting on the email list + setting up trac account: 
 
-Before getting into the particulars of the project, lets get plugged into the SDSS information stream. You'll want to get signed up with the SDSS-IV mailing list at this [link](https://mailman.sdss.org/mailman/listinfo/sdss4-general) and the SDSS trac page (basically the SDSS blog/wiki page) at this [link.](https://trac.sdss.org/register) The wiki is super important, as there's a lot of collaboration information that's only available there (for example, links to the places where data is hiding and future meeting schedules). I also think that with the wiki registration comes access to the SDSS collaboration-only pages.
+Before getting into the particulars of the project, lets get plugged into the SDSS information stream. You'll want to get signed up with the SDSS-IV mailing list at this [link](https://mailman.sdss.org/mailman/listinfo/sdss4-general) and the SDSS trac page (the SDSS blog/wiki page) at this [link.](https://trac.sdss.org/register) The wiki is super important, as there's a lot of collaboration information that's only available there (for example, links to the places where data is hiding and future meeting schedules). I also think that with the wiki registration comes access to the SDSS collaboration-only pages.
 
 ### Introductory exercises:
 
@@ -32,15 +32,15 @@ The Few-Epoch Spectroscopy (FES) component of TDSS probes spectroscopic variabil
 
 ## Spectral Typing Overview: 
 
-In order to do these analyses we must issue spectral types to the entire sample of variable objects. This is a procedure done by eye whereby an objects spectrum is plotted against spectral type standards, or templates, for various spectral types. The spectral type template (also a wavelength vs flux plot) which overlaps most closely with the object spectrum thus identifies the spectral type of the object. Bear in mind this is not an exact science. The object spectrum rarely overlaps perfectly with the spectral type template but the idea is to choose/issue the spectral type that most closely fits the object spectrum. Below is an image for instruction.
+In order to do these analyses we must issue spectral types to the entire sample of variable objects. This is a procedure done by eye whereby an objects spectrum is plotted against spectral type standards, or templates, for various spectral types. The spectral type template (also a wavelength vs flux plot) which overlaps most closely with the object spectrum thus identifies the spectral type of the object. The object spectrum may not overlap perfectly with the spectral type template but the idea is to choose/issue the spectral type that most closely fits the object spectrum. Below is an image for instruction.
 
 
 <p align="center">
-	<src = "https://github.com/JPVentura135/SDSS_Project_129/blob/master/EarlynMins652.png">
+	<img src = "https://github.com/JPVentura135/SDSS_Project_129/blob/master/EarlynMins652.png">
 </src>p>
 
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+In the image above you can see...
 
 It is encouraged for you to try to do this with a couple of objects in the Python programming language for an exercise in coding. The complete research sample to be analyzed between both projects is very large. It would be an enormous task to plot the objects one-by-one, plot-by-plot this way. Thankfully we have the [*Pyhammer*](https://github.com/BU-hammerTeam/PyHammer) at our disposal. Read the README page behind the link and clone the pyhammer repository into your computer.
 
@@ -72,8 +72,11 @@ Illustrated in this section are exercises regarding how to use the SDSS Cross-ID
 Note:
 From here on out, most of the astrophysical data you interact with will be in a file format of `.fits` which has a specific architecture. The data obtained from the exercise will be in the fits format so check this [page](http://docs.astropy.org/en/v0.3/io/fits/index.html) out for a comprehensive overview on how to access and manipulate data from these kinds of files.
 
+## Downloading the data.
 
-
+1.) 2350 SEQUELS M-dwarfs
+2.) SDSS-TDSS M-dwarfs (12GB)
+    SDSS cross ID tool only admits 500,000 object id's / query.
 
 
 
