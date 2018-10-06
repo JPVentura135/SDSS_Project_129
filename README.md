@@ -44,7 +44,7 @@ In the image above you can see...
 
 It is encouraged for you to try to do this with a couple of objects in the Python programming language for an exercise in coding. The complete research sample to be analyzed between both projects is very large. It would be an enormous task to plot the objects one-by-one, plot-by-plot this way. Thankfully we have the [*Pyhammer*](https://github.com/BU-hammerTeam/PyHammer) at our disposal. Read the README page behind the link and clone the pyhammer repository into your computer.
 
-Before we get to anything, lets go over some Python installation things so that you can get to spectral typing exercises.:
+Before we go any further, lets go over some Python installation things so that you can get to spectral typing exercises.:
 
 ### Python & Anaconda:
 Download the [Anaconda distribution](https://www.anaconda.com/download/#macos). This link is for a mac download but if you're a windows user make sure you choose the appropriate file version on the same page. Also be SURE to click on the download link for the '''Python 3.6''' Version. The Anaconda distribution is an assembly of function and code libraries widely used and applicable to analysis in the sciences. It's a must for any data analysis.
